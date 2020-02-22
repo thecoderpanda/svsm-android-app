@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SVSM Mobile App</string>
+    <string name="main_url">http://svsm.procohat.tech</string>
+    <string name="staff_url">http://svsm.procohat.tech/register</string>
+    <string name="login_url">http://svsm.procohat.tech/login/</string>
+    <string name="share_url">http://svsm.procohat.tech</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
